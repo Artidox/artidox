@@ -1,4 +1,3 @@
-html
 <h2 align="center">Hi :wave:, I'm Artidox!</h2>
 <h3>My Personal accounts:</h3>
 <p align="left">
