@@ -1,4 +1,4 @@
-```html
+html
 <h2 align="center">Hi :wave:, I'm Artidox!</h2>
 <h3>My Personal accounts:</h3>
 <p align="left">
@@ -18,4 +18,4 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=artidox&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artidox&layout=compact&theme=dark&hide_border=true" />
-```
+
