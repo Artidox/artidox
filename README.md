@@ -11,6 +11,7 @@
    <a href="https://twitter.com/Sercancikmis" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <div align="center">
+<a
 href="https://discord.com/users/922655597395058698" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/922655597395058698?bg=111111">
 </div>
