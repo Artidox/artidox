@@ -11,7 +11,7 @@
    <a href="https://twitter.com/Sercancikmis" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <div align="center">
-   [![Discord Presence](https://lanyard.cnrad.dev/api/:922655597395058698)](https://discord.com/users/:922655597395058698) </a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/922655597395058698?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/922655597395058698)
 </div>
 
 
